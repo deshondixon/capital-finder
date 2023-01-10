@@ -13,7 +13,7 @@
 - Prints a welcome message to the user, explaining the Madlib process and command line interactions.
 
 - Serverless function handles GET http request with a given country name that responds with a string with the form The capital of X is Y.
-- 
+
 - E.g./capital-finder?country=Chile generates a http response of The capital of Chile is Santiago.
 
 ---
