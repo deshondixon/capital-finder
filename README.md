@@ -2,7 +2,7 @@
 
 ## Capital Finder
 
-#### *Author:* DeShon Dixon
+### Author: DeShon Dixon
 
 ---
 
