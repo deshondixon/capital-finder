@@ -20,11 +20,14 @@
 
 ## Setup
 
-- Create repo on desktop
-- Create virtual environment: 
-*python3.11 -m venv .venv*
-- Activate environment: 
-*source .venv/bin/activate*
-- Install pywatch: 
-*pip install pytest-watch*
-- Clone repo: *https://github.com/deshondixon/capital-finder.git*
+The serverless function handles a GET http request with a given country name that responds with a string.
+- https://capital-finder-deshon-dixon.vercel.app/api/capital-finder?country=
+
+The serverless function should handle a GET http request with a given country name that responds with a string.
+- https://capital-finder-deshon-dixon.vercel.app/api/capital-finder?capital=
+
+## Vercel Server
+https://vercel.com/deshondixon/capital-finder-deshon-dixon
+
+## API
+https://restcountries.com/#api-endpoints-v3-capital-city
